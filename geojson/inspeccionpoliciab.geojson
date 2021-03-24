@@ -1,0 +1,445 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.031879362,
+          4.698538618
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "CL 122 KR 7A - 61",
+        "ipolatitud": 4.69853862,
+        "ipolongitu": -74.03187936,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 3779595,
+        "ipocontact": "Jacobo Jesús Solano Guerrero"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.061198496,
+          4.646365925
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "CL 61 KR 7 – 5, Piso 2",
+        "ipolatitud": 4.64636593,
+        "ipolongitu": -74.0611985,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 2127067,
+        "ipocontact": "Maryory Lorena Quiñones Muñoz"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07004592,
+          4.606680647
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "CL 21 KR 5 - 74",
+        "ipolatitud": 4.60668065,
+        "ipolongitu": -74.07004592,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": "3423974 / 3821640",
+        "ipocontact": "Balkis Helena Wiedeman Giraldo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.125320254,
+          4.470265031
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "CL 137C SUR 13 - 51",
+        "ipolatitud": 4.47026503,
+        "ipolongitu": -74.12532025,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 7660488,
+        "ipocontact": "Henry Ángel Muñoz"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.121689588,
+          4.556144898
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "CL 51 SUR KR 7-35, Piso 1",
+        "ipolatitud": 4.5561449,
+        "ipolongitu": -74.12168959,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 3779595,
+        "ipocontact": "Jorge Enrique Hurtado Calderón"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.184944078,
+          4.613612807
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "KR 81D 59A - 59 SUR",
+        "ipolatitud": 4.61359496,
+        "ipolongitu": -74.18487567,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 7794737,
+        "ipocontact": "Raul Alberto Poveda Poveda"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.09804011,
+          4.68745573
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "CL 71 KR 73A - 44",
+        "ipolatitud": 4.68745573,
+        "ipolongitu": -74.09804011,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 2916670,
+        "ipocontact": "Martha Janneth Gaitán Rivera"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.071458623,
+          4.675998514
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "KR 55 CL 79B - 48",
+        "ipolatitud": 4.67599851,
+        "ipolongitu": -74.07145862,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 3779595,
+        "ipocontact": "Wilson Callejas Parra"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.070916682,
+          4.628291286
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "KR 17 CL 39A - 38. Piso 1",
+        "ipolatitud": 4.62829129,
+        "ipolongitu": -74.07091668,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 3779595,
+        "ipocontact": "Jaqueline Campos Rincón"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.085417871,
+          4.61052274
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "KR 21 CL 14 - 75. Piso 3",
+        "ipolatitud": 4.61043351,
+        "ipolongitu": -74.08548331,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 3779595,
+        "ipocontact": "María Irene Raad Camelo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.103127095,
+          4.584407516
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "TV 21A CL 19-54 SUR, Piso 1",
+        "ipolatitud": 4.58440752,
+        "ipolongitu": -74.10312709,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 3779595,
+        "ipocontact": "Sandra Milena Polania Sabogal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.103372187,
+          4.60597766
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "CL 4 CON KR 31D - 30. Piso 1",
+        "ipolatitud": 4.60597766,
+        "ipolongitu": -74.10337219,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 3779595,
+        "ipocontact": "Jaime Montaña Lozano"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.114781981,
+          4.581318545
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "CL 32 SUR KR 23 - 62",
+        "ipolatitud": 4.58131855,
+        "ipolongitu": -74.11478198,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 3779595,
+        "ipocontact": "José Daniel Álvarez Ruiz"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.168462913,
+          4.594758971
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "KR 73 CON CL 59 -12 SUR. Piso 2",
+        "ipolatitud": 4.59475897,
+        "ipolongitu": -74.16846291,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 7799280,
+        "ipocontact": "Clemencia Probst Bruce"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.143052931,
+          4.674312638
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "CL 18 CON KR 99 - 02, Piso 2",
+        "ipolatitud": 4.67431264,
+        "ipolongitu": -74.14305293,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 3779595,
+        "ipocontact": "Jairo Alfonso Garzón Mora"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.079240974,
+          4.593324011
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "KR 8 CL 6B - 36",
+        "ipolatitud": 4.59332401,
+        "ipolongitu": -74.07924097,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 3779595,
+        "ipocontact": "Aida Elena Valentina Lemus Chois"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.101786874,
+          4.609007018
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "AC 6 KR 32A - 85",
+        "ipolatitud": 4.60900702,
+        "ipolongitu": -74.10178687,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 3779595,
+        "ipocontact": "Santiago Felipe Pacheco Pájaro"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.074902267,
+          4.601340592
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "CL 12C KR 8 - 53",
+        "ipolatitud": 4.60134059,
+        "ipolongitu": -74.07490227,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": "3397000 ext: 4247, 4245",
+        "ipocontact": "Alex Ariel Acevedo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.102664777,
+          4.618144396
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "KR 40 CL 10A - 08 PISO 2. CTP",
+        "ipolatitud": 4.6181444,
+        "ipolongitu": -74.10266478,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 3779595,
+        "ipocontact": "Tomas Cipriano Guerra"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.091066667,
+          4.558971138
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "CL 31C SUR KR 3 - 67 ESTE",
+        "ipolatitud": 4.55897114,
+        "ipolongitu": -74.09106667,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 3779595,
+        "ipocontact": "Marlen Lagos Herrera"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.149850297,
+          4.618565386
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "TV 73D CL 38C - 80 SUR",
+        "ipolatitud": 4.61856539,
+        "ipolongitu": -74.1498503,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 3779595,
+        "ipocontact": "Cesar Alfonso Cárdenas Restrepo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.081357586,
+          4.699657047
+        ]
+      },
+      "properties": {
+        "ipocod_pla": 5,
+        "ipodir_sit": "AV BOYACA CL 99 - 24",
+        "ipolatitud": 4.69965705,
+        "ipolongitu": -74.08135759,
+        "iposervici": "Lugar de atención a la comunidad donde se concentran los diferentes servicios en convivencia, resolución de conflictos, audiencias orales,  vigilancia y control en el cumplimiento del codigo de policia",
+        "ipotelefon": 3779595,
+        "ipocontact": "José Vicente Ortiz Romero"
+      }
+    }
+  ]
+}

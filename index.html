@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Basic map</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, 
+        initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <script src="js/leaflet.js"></script>
+    <link rel="stylesheet" href="css/leaflet.css">
+    <style>
+        body {
+            padding: 20;
+            margin: 0;
+        }
+        html, body, #map {  
+            height: 100%;
+            width: 100% ;
+        }
+    </style>     
+
+</head>
+<body>
+    <div id="map"></div>
+    <script>
+// Se crea la variable map con el mapa base 
+        let map = L.map("map").setView([4.65, -74.09], 12);
+        L.tileLayer(
+            "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", 
+            {attribution: '&copy; <a href="http://' + 
+            'www.openstreetmap.org/copyright">OpenStreetMap</a>'}
+        ).addTo(map);  
+        
+// Cargar GeoJSON de un archivo externo
+    fetch("geojson/inspeccionpoliciab.geojson")
+        .then(function(response) {
+            return response.json(); // ejecuta un parse: analiza la información del archivo y devuelve el correspondiente objeto
+        })
+        .then(function(data) { // agrega la capa GeoJSON al mapa una vez el archivo a sido cargado
+            L.geoJSON(data).addTo(map);
+        });
+    </script>
+</body>
+</html>
